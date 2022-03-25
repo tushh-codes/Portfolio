@@ -30,7 +30,7 @@ const About = () => {
           }}
         >
           Hey there!! It's Tushar here...<br></br>Always Seeking for
-          opportunities..<br></br>On the way to be a decent Devloper :)
+          opportunities..<br></br>On the way to be a decent Developer :)
         </p>
       </Cell>
     </Grid>
